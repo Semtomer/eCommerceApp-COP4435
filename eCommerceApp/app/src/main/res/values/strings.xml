@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">eCommerceApp</string>
+
+    <string name="intro_title">
+        Welcome to <font color="#39c7a5">Semtomer Store</font>\n\n
+        Upgrade <font color="#39c7a5">Gateway</font> Your Tech Today
+    </string>
+
+    <string name="intro_sub_title">
+        Sign in and unlock exclusive deals on the latest tech.\n
+        New customer? Register now and join our community!
+    </string>
+
+    <string name="letgo">"Let\'s Get Started"</string>
+
+    <string name="sign">"Already have an account? Sign in"</string>
+
+</resources>
